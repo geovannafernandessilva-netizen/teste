@@ -1,0 +1,23 @@
+/* Isso é um arquivo chamado style.css */
+
+body {
+    background-color: #f0f2f5; /* Um cinza bem clarinho */
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Faz o conteúdo ocupar a tela inteira */
+    margin: 0;
+}
+
+h1 {
+    color: #2d3436;
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+p {
+    color: #636e72;
+    font-weight: bold;
+}
